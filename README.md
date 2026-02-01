@@ -1,39 +1,23 @@
-# Hey, I'm Vivek Kumar 👋  
-Full Stack Developer • Product Builder • Problem Solver  
+Hey there! 👋
 
-I enjoy building modern, scalable web applications —  
-from powerful backend systems to clean, responsive frontends.
+I'm **Vivek Rao**, a full stack developer based in India.
 
----
+I design and build scalable web applications with clean user experiences and strong backend systems.
 
-## 🚀 What I’m Focused On  
-- Developing full stack applications with real-world impact  
-- Building secure and scalable backend architectures  
-- Working with databases, APIs, and authentication systems  
-- Exploring real-time applications with WebSockets  
+If an idea comes into my mind, chances are I’ll build it, ship it, and improve it step by step.
 
----
+My main tech stack includes **React, Next.js, TypeScript, Node.js, PostgreSQL, Prisma**, along with tools like **Tailwind CSS, Docker, AWS, and Cloudflare**.
 
-## 🧰 Tech Stack  
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express, Hono, WebSockets  
-**Database:** PostgreSQL, MongoDB, Prisma  
-**DevOps & Tools:** Docker, AWS, Cloudflare, Git  
+I enjoy working on real-world projects involving authentication, APIs, databases, and real-time systems with WebSockets.
 
----
+Right now, I’m focused on growing as a developer by building modern products and exploring scalable system design.
 
-## 📌 About Me  
-- I love building products from scratch  
-- I focus on clean code and scalable systems  
-- Always learning and experimenting with modern web technologies  
+Fun facts:
 
----
+- I love creating full stack products from scratch  
+- I enjoy backend architecture and real-time apps  
+- Always learning and experimenting with new technologies  
 
-## 📫 Connect With Me  
-📧 Email: **vkrao800@gmail.com**  
-💼 LinkedIn: https://linkedin.com/in/vivek  
-🐙 GitHub: https://github.com/vkxr  
+If you’d like to connect or collaborate, feel free to reach out.
 
----
-
-⭐ Feel free to explore my repositories — always open to collaboration!
+📫 **vkrao800@gmail.com**
